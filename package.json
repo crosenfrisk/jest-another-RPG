@@ -1,0 +1,24 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "jest-another-rpg is a role playing game that will run from the command line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crosenfrisk/jest-another-RPG.git"
+  },
+  "keywords": [
+    "rpg",
+    "TDD",
+    "OOP"
+  ],
+  "author": "Claire Rosenfrisk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crosenfrisk/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/crosenfrisk/jest-another-RPG#readme"
+}
