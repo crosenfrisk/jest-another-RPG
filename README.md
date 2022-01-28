@@ -9,7 +9,7 @@
 
 
   ## Preview
-  ![Your Picture Here](add relative path)
+  ![Your Picture Here](assets/images/jest-another-RPG-start.png)
 
 
   ## Table of Contents
@@ -23,7 +23,7 @@
   
 
   ## Installation
-  User must download the code from GitHub either by cloning or forking. Open files using Visual Studio Code or other editor, and from within the root directory run`npm install` - from there play game by typing `node app.js`.
+  User must download the code from GitHub either by cloning or forking. Open files using Visual Studio Code or other editor, and from within the root directory run `npm install` - from there play game by typing `node app.js`.
 
 
   ## Usage
@@ -54,5 +54,5 @@
   
   ## Questions
   If you have any questions about this project, please contact me directly at claire.rosenfrisk@gmail.com. You can view more of my work on 
-  ![GitHub](/Develop/assets/images/github-brands.svg) [My GitHub Profile](https://github.com/crosenfrisk).
+  ![GitHub](assets\images\github-brands.svg)[My GitHub Profile](https://github.com/crosenfrisk).
 
