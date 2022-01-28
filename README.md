@@ -54,5 +54,5 @@
   
   ## Questions
   If you have any questions about this project, please contact me directly at claire.rosenfrisk@gmail.com. You can view more of my work on 
-  ![GitHub](assets\images\github-brands.svg) [My GitHub Profile](https://github.com/crosenfrisk).
+  ![GitHub](assets/images/github-brands.svg) [My GitHub Profile](https://github.com/crosenfrisk).
 
